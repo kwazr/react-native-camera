@@ -31,6 +31,7 @@ You can also fund this project using open collective
 
 Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/react-native-camera#backer)]
 
+<<<<<<< HEAD
 <a href="https://opencollective.com/react-native-camera/backer/999/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/0/avatar.svg"></a>
 <a href="https://opencollective.com/react-native-camera/backer/888/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/1/avatar.svg"></a>
 <a href="https://opencollective.com/react-native-camera/backer/777/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/2/avatar.svg"></a>
